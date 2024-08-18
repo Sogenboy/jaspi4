@@ -1,0 +1,36 @@
+.vvv {
+  position: absolute;
+  margin: -518px 0px 0px 222px;
+}
+
+.vv {
+  position: absolute;
+  margin: -721px 0px 0px 2px;
+}
+
+.v {
+  position: absolute;
+  margin: -755px 0px 0px -11px;
+}
+
+.back {
+  position: absolute;
+  margin: -848px 0px 0px 5px;
+}
+
+.back2 {
+  position: absolute;
+  margin: -848px 0px 0px 5px;
+  opacity: 0;
+}
+
+.back3 {
+  position: absolute;
+  margin: -767px 0px 0px 5px;
+  opacity: 0;
+}
+
+.udo {
+  position: absolute;
+  margin: -636px 0px 0px 24px;
+}
